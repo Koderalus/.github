@@ -1,0 +1,8 @@
+# Global rule - require approval from repository owner for all files
+* @Koderalus
+
+# Specific protection for critical community files
+FUNDING.yml @Koderalus
+README.md @Koderalus
+CODE_OF_CONDUCT.md @Koderalus
+SECURITY.md @Koderalus 
